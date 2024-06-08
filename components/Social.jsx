@@ -8,9 +8,9 @@ import {
 } from "react-icons/fa";
 
 const socials = [
-    {icon: <FaGithub/>, path:""},
+    {icon: <FaGithub/>, path:"https://github.com/jerinjerinjerin"},
     {icon: <FaLinkedinIn/>, path:""},
-    {icon: <FaWhatsapp/>, path:""},
+    {icon: <FaWhatsapp/>, path:"https://api.whatsapp.com/send?phone=%2B918015752367"},
     {icon: <FaInstagram/>, path:""},
 ];
 

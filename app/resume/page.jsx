@@ -41,7 +41,7 @@ const about = {
     },
     {
       fieldName: "Skype",
-      fieldValue: "Jerin Raj",
+      fieldValue: "jerin raj",
     },
     {
       fieldName: "Nationality",
@@ -72,33 +72,19 @@ const expreience = {
     {
       company: "Pamz3d design India PVT LTD",
       position: "Junior Programmer",
-      duration: "2023 - 2024",
+      duration: "16/06/2023 - 31/05/2024",
     },
     {
-      company: "Pamz3d design India PVT LTD",
-      position: "Junior Programmer",
-      duration: "2023 - 2024",
-    },
-    {
-      company: "Appin Tech",
-      position: "FullStack Doveloper Intron",
-      duration: "2023-summer",
+      company: "Sample Project",
+      position: "Web dovelopment",
+      duration: "15/04/2023 - 01/06/2023",
     },
     {
       company: "Laptops and mobile servece",
       position: "Freelance web dovelopment",
-      duration: "2023-Summer",
+      duration: "01/01/2023 - 15/03/2023",
     },
-    {
-      company: "Web Design",
-      position: "Front-End Doveloper Intron",
-      duration: "2023 - 2024",
-    },
-    {
-      company: "Web Design",
-      position: "Front-End Doveloper Intron",
-      duration: "2023 - 2024",
-    },
+      
   ],
 };
 
@@ -106,11 +92,16 @@ const education = {
   icoan: "/assets/resume/jerin_resume.svg",
   title: "My education",
   description:
-    "I am a full stack web developer with a passion for creating beautiful and intuitive user interfaces. I have a strong background in web development and have worked with a variety of technologies including HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB.",
+    "Currently pursuing a B.Sc. in Computer Science at Bharathidasan University (Distance education), I have one year of experience with the MERN stack, Next.js, and Tailwind CSS. My academic background and technical skills enable me to build efficient, responsive web applications while excelling in collaborative environments",
 
   items: [
     {
-      institution: "Yoytube Course",
+      institution: "Currently pursuing B.Sc. Computer Science (Distance education)",
+      degree: "undergraduate",
+      duration: "2023 - current",
+    },
+    {
+      institution: "yoytube Course",
       degree: "Programmer Course",
       duration: "2024",
     },
@@ -145,7 +136,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "I am a full stack web developer with a passion for creating beautiful and intuitive user interfaces. I have a strong background in web development and have worked with a variety of technologies including HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB.",
+    "With one year of experience in the MERN stack, Next.js, and Tailwind CSS, I bring strong full-stack development skills. My proficiency in these technologies enables me to build responsive, efficient, and scalable web applications. I excel in creating seamless user experiences and maintaining clean, maintainable code",
 
   skillList: [
     {
