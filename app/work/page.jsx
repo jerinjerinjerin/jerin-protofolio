@@ -18,7 +18,6 @@ import WorkSliderBtns from "../../components/WorkSliderBtns";
 const projects = [
   {
     num: "01",
-<<<<<<< HEAD
     category: "fullstack",
     title: "project 1",
     description: "AI Powered Content Generator",
@@ -27,16 +26,6 @@ const projects = [
     live: "https://jerin-ai-powerd-content-generator.vercel.app/",
     github:
       "https://github.com/jerinjerinjerin/ai-content-generator",
-=======
-    category: "frontend",
-    title: "project 1",
-    description: "Computer, Laptop, CCTVCamera Sales And Service",
-    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
-    image: "/assets/work/project_1_02.png",
-    live: "",
-    github:
-      "https://github.com/jerinjerinjerin/Computer-Laptop-CCTVCamera-Sales-And-Service",
->>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
   },
   {
     num: "02",
