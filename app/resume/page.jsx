@@ -39,7 +39,14 @@ const about = {
       fieldName: "Experience",
       fieldValue: "1+ years",
     },
+<<<<<<< HEAD
     
+=======
+    {
+      fieldName: "Skype",
+      fieldValue: "jerin raj",
+    },
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
     {
       fieldName: "Nationality",
       fieldValue: "Indian",
@@ -49,7 +56,11 @@ const about = {
       fieldValue: "jerinr906@gmail.com",
     },
     {
+<<<<<<< HEAD
       fieldName: "Web development",
+=======
+      fieldName: "Web dovelopment",
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       fieldValue: "Avaliable",
     },
     {
@@ -67,19 +78,33 @@ const expreience = {
 
   items: [
     {
+<<<<<<< HEAD
       company: "EnterKey Solutions",
       position: "FullStack Developer",
       duration: "03/07/2024 - Current",
     },
     {
+=======
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       company: "Pamz3d design India PVT LTD",
       position: "Junior Programmer",
       duration: "16/06/2023 - 31/05/2024",
     },
+<<<<<<< HEAD
     
     {
       company: "Laptops and mobile servece",
       position: "Freelance web development",
+=======
+    {
+      company: "Sample Project",
+      position: "Web dovelopment",
+      duration: "15/04/2023 - 01/06/2023",
+    },
+    {
+      company: "Laptops and mobile servece",
+      position: "Freelance web dovelopment",
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       duration: "01/01/2023 - 15/03/2023",
     },
       
@@ -105,12 +130,20 @@ const education = {
     },
     {
       institution: "Appin Institue",
+<<<<<<< HEAD
       degree: "Certified FullStack Developer",
+=======
+      degree: "Certified FullStack Doveloper",
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       duration: "2023",
     },
     {
       institution: "Online Courses Platform",
+<<<<<<< HEAD
       degree: "MERN Stack Web Development BootCamp",
+=======
+      degree: "MERN Stack Web Dovelopment BootCamp",
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       duration: "2023",
     },
     {
@@ -118,10 +151,21 @@ const education = {
       degree: "Html,Css,Javascript Basic Course",
       duration: "2022",
     },
+<<<<<<< HEAD
     
     {
       institution: "Udaya Polytechnic Collage",
       degree: "Diploma in Mechanical engineering",
+=======
+    {
+      institution: "cnc operator course",
+      degree: "Kathir School of engineering",
+      duration: "2021",
+    },
+    {
+      institution: "Udaya Polytechnic Collage",
+      degree: "Diploma in Mechanical engineering 2 years Complected",
+>>>>>>> 482842aa74fa9c2bad8ecfc41a41a36de3ba9d79
       duration: "2017-2019",
     },
   ],
