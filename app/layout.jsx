@@ -6,7 +6,6 @@ import "./globals.css";
  import  Header  from "../components/Header";
  import PageTransition from "../components/PageTransition";
  import StairTransition from "../components/StairTransition";
- import { ClerkProvider } from "@clerk/nextjs";
 
 
 const JetBrainsMono = JetBrains_Mono({ subsets: ["latin"],
@@ -21,7 +20,6 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-  <ClerkProvider>
       <html lang="en">
         <body className={JetBrainsMono.variable}>
           <Header/>
@@ -31,6 +29,5 @@ export default function RootLayout({ children }) {
           </PageTransition>
         </body>
       </html>
-  </ClerkProvider>
   );
 }
